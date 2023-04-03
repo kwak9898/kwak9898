@@ -48,7 +48,7 @@
 
 # 프로젝트를 통한 성장과정 `Projects`
 
-### 다섯번째 프로젝트 - `ChaChaCha`
+### 다섯번째 프로젝트 - `Bave`
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=kwak9898&repo=bave&show_owner=true&theme=vue-dark)](https://github.com/kwak9898/bave)
 
