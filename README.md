@@ -13,8 +13,8 @@
 
 </br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwaktae1@gmail.com)](mailto:kwaktae1@gmail.com)
-[![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://kwaktaem.tistory.com/)](https://kwaktaem.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwaktaemin98@gmail.com)](mailto:kwaktaemin98@gmail.com)
+[![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=velog&link=https://velog.io/@kwaktaemin_)](https://velog.io/@kwaktaemin_)
 
 ﹏﹏﹏﹏﹏﹏﹏
 
