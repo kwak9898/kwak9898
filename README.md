@@ -49,7 +49,7 @@
 
 ### 네번째 프로젝트 - `집을모아놓다.zip`
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Team3-zip&repo=B-E&show_owner=true&theme=theme=vue-dark)](https://github.com/Team3-zip/B-E)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Team3-zip&repo=B-E&show_owner=true&theme=vue-dark)](https://github.com/Team3-zip/B-E)
 
 ### 세번째 프로젝트 - `페이스북 클론코딩`
 
