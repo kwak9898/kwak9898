@@ -24,7 +24,7 @@
  
 <br/>
 <img alt="nodejs" src ="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-<img alt="TypeScript" src ="https://img.shields.io/badge/-TypeScript-#3178C6?logo=Typescript.js&logoColor=white&style=for-the-badge"/>
+<img alt="TypeScript" src ="https://img.shields.io/badge/-TypeScript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/-JavaScript-f7df1e.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
 <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="mongodb" src ="https://img.shields.io/badge/-MongoDB-47A248?logo=mongoDB&logoColor=white&style=for-the-badge"/>
