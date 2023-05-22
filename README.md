@@ -14,7 +14,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwaktaemin98@gmail.com)](mailto:kwaktaemin98@gmail.com)
 [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=velog&link=https://velog.io/@kwaktaemin_)](https://velog.io/@kwaktaemin_)
 
-﹏﹏﹏﹏﹏﹏﹏
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 <br/><br/>
 
@@ -37,7 +37,3 @@
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
-
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwak9898&show_icons=true&theme=apprentice)
