@@ -9,10 +9,6 @@
 저는 항상 노력하는 백엔드 개발자가 되는게 꿈입니다.<br/>
 <br/><br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwak9898%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/kwak9898)
-
-</br>
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwaktaemin98@gmail.com)](mailto:kwaktaemin98@gmail.com)
 [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=velog&link=https://velog.io/@kwaktaemin_)](https://velog.io/@kwaktaemin_)
 
@@ -43,27 +39,3 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwak9898&show_icons=true&theme=apprentice)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwak9898&layout=compact&thema=apprentice)](https://github.com/kwak9898)
-
-# 프로젝트를 통한 성장과정 `Projects`
-
-### 다섯번째 프로젝트 - `Bave`
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=kwak9898&repo=bave&show_owner=true&theme=vue-dark)](https://github.com/kwak9898/bave)
-
-### 네번째 프로젝트 - `집을모아놓다.zip`
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Team3-zip&repo=B-E&show_owner=true&theme=vue-dark)](https://github.com/Team3-zip/B-E)
-
-### 세번째 프로젝트 - `페이스북 클론코딩`
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=kwak9898&repo=facebook_clone&show_owner=true&theme=vue-dark)](https://github.com/kwak9898/facebook_clone)
-
-### 두번째 프로젝트 - `ChaChaCha`
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=kwak9898&repo=ChaChaCha_Back_end&show_owner=true&theme=vue-dark)](https://github.com/kwak9898/ChaChaCha_Back_end)
-
-### 첫번째 프로젝트 - `HiddenTrack`
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=kwak9898&repo=HiddenTrack&show_owner=true&theme=vue-dark)](https://github.com/kwak9898/HiddenTrack)
