@@ -2,11 +2,13 @@
 
 <div align = "center">
 
-## 항상 노력하는 백엔드 개발자 👋
+## 성장하는 백엔드 개발자 🚀
 
 <br/>
-안녕하세요 곽태민입니다.<br/>
-저는 항상 노력하는 백엔드 개발자가 되는게 꿈입니다.<br/>
+안녕하세요 1년차 백엔드 개발자 곽태민입니다.<br/>
+무엇보다 가치있는 서비스를 만들고, 효율적인 개발을 하려고 합니다.<br/>
+하루에 1개 이상 블로그에 배운거나 경험한 것들을 올려 성장을 하고 있습니다.<br/>
+<br/>
 <br/><br/>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwaktaemin98@gmail.com)](mailto:kwaktaemin98@gmail.com)
